@@ -3,13 +3,13 @@
     <string name="app_name">RecorderX</string>
     <string name="start_recording">بدء التسجيل</string>
     <string name="stop_recording">إيقاف التسجيل</string>
-    <string name="settings_title">SYSTEM CONFIGURATION</string>
+    <string name="settings_title">تكوين النظام</string>
     
     <string name="guide_title">الدليل</string>
-    <string name="guide_message">• CODEC: H.264 (Compatible), H.265 (Efficient), AV1 (Next-Gen quality).\n\n• ORIENTATION: Lock video to Auto, Portrait, or Landscape aspect ratios.\n\n• RESOLUTION: NATIVE uses screen size; 4K/2K/FHD set exact pixel dimensions.\n\n• FRAME RATE: 24-60 (Standard), 90-120 (Ultra smooth for gaming).\n\n• BITRATE: Higher Mbps means sharper details but larger file sizes.\n\n• BITRATE MODE: VBR saves space; CBR maintains constant high quality.\n\n• AUDIO SOURCE: Silence, Microphone, System Internal, or MIX (Sys+Mic).\n\n• AUDIO QUALITY: Adjust sample rate and bitrate for audio fidelity.</string>
-    <string name="guide_understood">OK</string>
+    <string name="guide_message">• الترميز: H.264 (متوافق)، H.265 (فعال)، AV1 (جودة الجيل التالي).\n\n• الاتجاه: قم بقفل الفيديو على نسب العرض إلى الارتفاع التلقائية أو العمودية أو الأفقية.\n\n• الدقة: يستخدم الوضع الأصلي حجم الشاشة؛ 4K/2K/FHD يحدد الأبعاد الدقيقة للبكسل.\n\n• معدل الإطارات: 24-60 (قياسي)، 90-120 (سلس للغاية للألعاب).\n\n• معدل البت: يعني معدل Mbps الأعلى تفاصيلًا أكثر وضوحًا ولكن أحجام ملفات أكبر.\n\n• وضع معدل البت: يوفر VBR المساحة؛ ويحافظ CBR على جودة عالية ثابتة.\n\n• مصدر الصوت: الصمت أو الميكروفون أو النظام الداخلي أو مزيج (Sys+Mic).\n\n• جودة الصوت: اضبط معدل العينة ومعدل البت للحصول على دقة صوت.</string>
+    <string name="guide_understood">حسنًّا</string>
 
-    <string name="btn_language">LANGUAGE</string>
+    <string name="btn_language">اللغة</string>
     <string name="btn_view_source">المصدر</string>
     <string name="btn_guide">الدليل</string>
     <string name="btn_open_recordings">فتح آخر\nتسجيل</string>
@@ -123,7 +123,7 @@
     <string name="notification_action_off">إيقاف</string>
     <string name="notification_overloaded_title">الأجهزة مثقلة</string>
     <string name="notification_overloaded_text">فشل التسجيل. انقر لإعادة التشغيل باستخدام الإعدادات الآمنة.</string>
-    <string name="qs_record_screen">شاشة التسجيل</string>
+    <string name="qs_record_screen">تسجيل الشاشة</string>
     <string name="toast_no_recordings">لم يتم العثور على تسجيلات</string>
     <string name="toast_no_video_player">لم يتم العثور على تطبيق مشغل الفيديو</string>
     <string name="toast_audio_permission_required">مطلوب إذن الصوت للميكروفون</string>
@@ -141,8 +141,8 @@
     <string name="accessibility_desc">يُستخدم فقط لتشغيل لقطات شاشة النظام الأصلية أثناء جلسات تسجيل الشاشة دون مقاطعة التقاط الفيديو.</string>
     <string name="widget_quick_record_title">تسجيل سريع</string>
     <string name="widget_control_center_title">مركز التحكم</string>
-    <string name="widget_btn_rec">REC</string>
-    <string name="widget_btn_stop">STOP</string>
+    <string name="widget_btn_rec">تسجيل</string>
+    <string name="widget_btn_stop">توقف</string>
     <string name="widget_btn_last">الأخير</string>
     <string name="widget_btn_app">تطبيق</string>
     <string name="widget_btn_bubble">فقاعة</string>
